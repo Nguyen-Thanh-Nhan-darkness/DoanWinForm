@@ -1,0 +1,79 @@
+D:\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\QuanLyCuaHangBanQuanAo.csproj.AssemblyReference.cache
+D:\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\QuanLyCuaHangBanQuanAo.Properties.Resources.resources
+D:\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\QuanLyCuaHangBanQuanAo.csproj.GenerateResource.cache
+D:\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\QuanLyCuaHangBanQuanAo.csproj.CoreCompileInputs.cache
+D:\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\bin\Debug\QuanLyCuaHangBanQuanAo.exe.config
+D:\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\bin\Debug\QuanLyCuaHangBanQuanAo.exe
+D:\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\bin\Debug\QuanLyCuaHangBanQuanAo.pdb
+D:\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\QuanLyCuaHangBanQuanAo.frmLogin.resources
+D:\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\QuanLyCuaHangBanQuanAo.frmMenu.resources
+D:\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\QuanLyCuaHangBanQuanAo.exe
+D:\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\QuanLyCuaHangBanQuanAo.pdb
+D:\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\QuanLyCuaHangBanQuanAo.frmSanPham.resources
+D:\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\QuanLyCuaHangBanQuanAo.frmNhanVien.resources
+D:\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\QuanLyCuaHangBanQuanAo.frmNhaCungCap.resources
+D:\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\QuanLyCuaHangBanQuanAo.frmKhachHang.resources
+D:\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\QuanLyCuaHangBanQuanAo.frmHoaDon.resources
+D:\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\QuanLyCuaHangBanQuanAo.frmCT_HoaDon.resources
+D:\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\QuanLyCuaHangBanQuanAo.csproj.ResolveComReference.cache
+D:\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\QuanLyCuaHangBanQuanAo.frmXemCT_HoaDon.resources
+C:\Users\Administrator\Desktop\0306201600\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\QuanLyCuaHangBanQuanAo.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\0306201600\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\QuanLyCuaHangBanQuanAo.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\0306201600\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\QuanLyCuaHangBanQuanAo.frmCT_HoaDon.resources
+C:\Users\Administrator\Desktop\0306201600\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\QuanLyCuaHangBanQuanAo.frmNhapHang.resources
+C:\Users\Administrator\Desktop\0306201600\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\QuanLyCuaHangBanQuanAo.frmXemCT_HoaDon.resources
+C:\Users\Administrator\Desktop\0306201600\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\QuanLyCuaHangBanQuanAo.frmHoaDon.resources
+C:\Users\Administrator\Desktop\0306201600\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\QuanLyCuaHangBanQuanAo.frmKhachHang.resources
+C:\Users\Administrator\Desktop\0306201600\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\QuanLyCuaHangBanQuanAo.frmLogin.resources
+C:\Users\Administrator\Desktop\0306201600\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\QuanLyCuaHangBanQuanAo.frmMenu.resources
+C:\Users\Administrator\Desktop\0306201600\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\QuanLyCuaHangBanQuanAo.frmNhaCungCap.resources
+C:\Users\Administrator\Desktop\0306201600\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\QuanLyCuaHangBanQuanAo.frmNhanVien.resources
+C:\Users\Administrator\Desktop\0306201600\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\QuanLyCuaHangBanQuanAo.frmSanPham.resources
+C:\Users\Administrator\Desktop\0306201600\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\QuanLyCuaHangBanQuanAo.Properties.Resources.resources
+C:\Users\Administrator\Desktop\0306201600\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\QuanLyCuaHangBanQuanAo.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\0306201600\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\QuanLyCuaHangBanQuanAo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\0306201600\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\QuanLyCuaHangBanQuanAo.exe
+C:\Users\Administrator\Desktop\0306201600\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\QuanLyCuaHangBanQuanAo.pdb
+C:\Users\Administrator\Desktop\0306201600\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\bin\Debug\QuanLyCuaHangBanQuanAo.exe.config
+C:\Users\Administrator\Desktop\0306201600\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\bin\Debug\QuanLyCuaHangBanQuanAo.exe
+C:\Users\Administrator\Desktop\0306201600\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\bin\Debug\QuanLyCuaHangBanQuanAo.pdb
+C:\Users\Administrator\Desktop\Nhom06\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\bin\Debug\QuanLyCuaHangBanQuanAo.exe.config
+C:\Users\Administrator\Desktop\Nhom06\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\bin\Debug\QuanLyCuaHangBanQuanAo.exe
+C:\Users\Administrator\Desktop\Nhom06\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\bin\Debug\QuanLyCuaHangBanQuanAo.pdb
+C:\Users\Administrator\Desktop\Nhom06\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\QuanLyCuaHangBanQuanAo.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Nhom06\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\QuanLyCuaHangBanQuanAo.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\Nhom06\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\QuanLyCuaHangBanQuanAo.frmCT_HoaDon.resources
+C:\Users\Administrator\Desktop\Nhom06\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\QuanLyCuaHangBanQuanAo.frmNhapHang.resources
+C:\Users\Administrator\Desktop\Nhom06\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\QuanLyCuaHangBanQuanAo.frmXemCT_HoaDon.resources
+C:\Users\Administrator\Desktop\Nhom06\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\QuanLyCuaHangBanQuanAo.frmHoaDon.resources
+C:\Users\Administrator\Desktop\Nhom06\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\QuanLyCuaHangBanQuanAo.frmKhachHang.resources
+C:\Users\Administrator\Desktop\Nhom06\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\QuanLyCuaHangBanQuanAo.frmLogin.resources
+C:\Users\Administrator\Desktop\Nhom06\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\QuanLyCuaHangBanQuanAo.frmMenu.resources
+C:\Users\Administrator\Desktop\Nhom06\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\QuanLyCuaHangBanQuanAo.frmNhaCungCap.resources
+C:\Users\Administrator\Desktop\Nhom06\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\QuanLyCuaHangBanQuanAo.frmNhanVien.resources
+C:\Users\Administrator\Desktop\Nhom06\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\QuanLyCuaHangBanQuanAo.frmSanPham.resources
+C:\Users\Administrator\Desktop\Nhom06\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\QuanLyCuaHangBanQuanAo.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Nhom06\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\QuanLyCuaHangBanQuanAo.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Nhom06\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\QuanLyCuaHangBanQuanAo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Nhom06\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\QuanLyCuaHangBanQuanAo.exe
+C:\Users\Administrator\Desktop\Nhom06\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\QuanLyCuaHangBanQuanAo.pdb
+D:\Báo cáo đồ An1 WinDows\Nhom06\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\bin\Debug\QuanLyCuaHangBanQuanAo.exe.config
+D:\Báo cáo đồ An1 WinDows\Nhom06\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\QuanLyCuaHangBanQuanAo.csproj.ResolveComReference.cache
+D:\Báo cáo đồ An1 WinDows\Nhom06\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\QuanLyCuaHangBanQuanAo.exe
+D:\Báo cáo đồ An1 WinDows\Nhom06\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\QuanLyCuaHangBanQuanAo.pdb
+D:\Báo cáo đồ An1 WinDows\Nhom06\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\bin\Debug\QuanLyCuaHangBanQuanAo.exe
+D:\Báo cáo đồ An1 WinDows\Nhom06\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\bin\Debug\QuanLyCuaHangBanQuanAo.pdb
+D:\Báo cáo đồ An1 WinDows\Nhom06\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\QuanLyCuaHangBanQuanAo.csprojResolveAssemblyReference.cache
+D:\Báo cáo đồ An1 WinDows\Nhom06\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\QuanLyCuaHangBanQuanAo.frmCT_HoaDon.resources
+D:\Báo cáo đồ An1 WinDows\Nhom06\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\QuanLyCuaHangBanQuanAo.frmNhapHang.resources
+D:\Báo cáo đồ An1 WinDows\Nhom06\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\QuanLyCuaHangBanQuanAo.frmXemCT_HoaDon.resources
+D:\Báo cáo đồ An1 WinDows\Nhom06\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\QuanLyCuaHangBanQuanAo.frmHoaDon.resources
+D:\Báo cáo đồ An1 WinDows\Nhom06\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\QuanLyCuaHangBanQuanAo.frmKhachHang.resources
+D:\Báo cáo đồ An1 WinDows\Nhom06\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\QuanLyCuaHangBanQuanAo.frmLogin.resources
+D:\Báo cáo đồ An1 WinDows\Nhom06\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\QuanLyCuaHangBanQuanAo.frmMenu.resources
+D:\Báo cáo đồ An1 WinDows\Nhom06\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\QuanLyCuaHangBanQuanAo.frmNhaCungCap.resources
+D:\Báo cáo đồ An1 WinDows\Nhom06\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\QuanLyCuaHangBanQuanAo.frmNhanVien.resources
+D:\Báo cáo đồ An1 WinDows\Nhom06\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\QuanLyCuaHangBanQuanAo.frmSanPham.resources
+D:\Báo cáo đồ An1 WinDows\Nhom06\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\QuanLyCuaHangBanQuanAo.Properties.Resources.resources
+D:\Báo cáo đồ An1 WinDows\Nhom06\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\QuanLyCuaHangBanQuanAo.csproj.GenerateResource.Cache
+D:\Báo cáo đồ An1 WinDows\Nhom06\QuanLyCuaHangBanQuanAo\QuanLyCuaHangBanQuanAo\obj\Debug\Interop.WPDSpLib.dll
